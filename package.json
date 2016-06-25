@@ -1,0 +1,21 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "gulp": "latest"
+  },
+  "description": "Persion WebSite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadupirn/website.git"
+  },
+  "author": "Aadu Pirn",
+  "license": "ISC",
+  "devDependencies": {}
+}
